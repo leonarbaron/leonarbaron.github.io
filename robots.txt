@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leonardobaron.github.io/sitemap.xml
